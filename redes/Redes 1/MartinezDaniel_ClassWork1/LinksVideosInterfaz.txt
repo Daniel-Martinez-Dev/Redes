@@ -1,0 +1,9 @@
+Videos:
+Generador de Señales
+	https://web.microsoftstream.com/video/65cdb67e-87a9-4802-8646-88e332b39062
+Modulación Analógica
+	https://web.microsoftstream.com/video/ccb14b82-8aae-451d-b9e1-ddaffc259d3f
+Modulación Digital
+	https://web.microsoftstream.com/video/04a08c0f-c87f-49a6-a88e-2977a162f033
+Transformada de Fourier
+	https://web.microsoftstream.com/video/450f4c3d-eac1-44a7-909b-0d3660582b40
